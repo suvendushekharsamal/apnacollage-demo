@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first git repository
 <br>
-Author = Suvendu Samal
+Author = (Suvendu Samal)  <git>
